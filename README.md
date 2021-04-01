@@ -1,7 +1,7 @@
 <h1 align="center"> Kenmeiyoki Logger </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-UNSTABLE-yellow.svg?style=plastic" alt="kenmeiyoki" />
+  <img src="https://img.shields.io/badge/status-STABLE-green.svg?style=plastic" alt="kenmeiyoki" />
   <img src="https://img.shields.io/badge/last%20update-2021--01--24-informational?style=plastic" alt="kenmeiyoki" />
   <img src="https://img.shields.io/github/issues/Kenmeiyoki/ken-logger?style=plastic" alt="kenmeiyoki" />
   <img src="https://img.shields.io/github/release/Kenmeiyoki/ken-logger?style=plastic" alt="kenmeiyoki" />
